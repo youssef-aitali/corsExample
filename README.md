@@ -16,3 +16,4 @@ This simple example shows a list of users data (first name, last name, email) in
 
 ## After enabling CORS : 
 
+![cors enabled](https://user-images.githubusercontent.com/10710387/47943183-c98e6280-deec-11e8-8b9b-9d14e946b0a7.png)
