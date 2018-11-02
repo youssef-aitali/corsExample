@@ -7,8 +7,8 @@
       <th>Last name</th>
       <th>Email</th>
     </tr>
-    <tr *ngFor="let u of users">
-      <td>1</td>
+    <tr *ngFor="let u of users; let i = index">
+      <td>{{i+1}}</td>
       <td>{{u.firstName}}</td>
       <td>{{u.lastName}}</td>
       <td>{{u.email}}</td>
